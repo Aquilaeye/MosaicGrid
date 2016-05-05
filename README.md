@@ -1,5 +1,7 @@
 # MosaicGrid
-mosaicGrid is for show your images in Mosaic Layout,a perfectly balanced image gallery like shown below Inspired by: http://www.crispymtn.com/stories/the-algorithm-for-a-perfectly-balanced-photo-gallery
+mosaicGrid is for show your images in Mosaic Layout,a perfectly balanced image gallery like shown below screenshots.
+
+Inspired by: http://www.crispymtn.com/stories/the-algorithm-for-a-perfectly-balanced-photo-gallery
 
 ## Screenshots
 
