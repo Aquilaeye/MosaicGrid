@@ -3,6 +3,9 @@ mosaicGrid is for show your images in Mosaic Layout,a perfectly balanced image g
 
 ## Screenshots
 
+<img src="device-2016-05-05-164058.jpg" width="400">
+<img src="device-2016-05-05-164148.jpg"width="400">
+
 ## Notes 
 * All interface orientations are supported
 * Layout for recyclerview.
